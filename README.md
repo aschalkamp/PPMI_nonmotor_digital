@@ -1,5 +1,8 @@
 # Code for "Digital outcome measures from smartwatch data relate to non-motor features of Parkinson’s disease"
- published in NPJ Parkinson's Disease and on [medrxiv](https://doi.org/10.1101/2023.09.12.23295406)
+ published in [NPJ Parkinson's Disease](https://rdcu.be/dJjyV
+) and on [medrxiv](https://doi.org/10.1101/2023.09.12.23295406)
+
+There is also a [blog post](https://communities.springernature.com/posts/the-role-of-smartwatch-data-in-monitoring-non-motor-symptoms-of-parkinson-s-disease)
  
  
 ## Summary
